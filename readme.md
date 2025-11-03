@@ -57,3 +57,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+### Streamlit Link
+https://datasetmineria-e8pkvhxm2qwedmutsqj2kn.streamlit.app/
